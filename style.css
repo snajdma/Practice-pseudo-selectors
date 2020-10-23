@@ -1,0 +1,17 @@
+p:hover {
+    background-color: orangered;
+}
+
+p {
+    width: 270px;
+    border: 1px solid black;
+    margin: 0px;
+}
+
+#first {
+    border-top: none;
+}
+
+#last {
+    border-bottom: none;
+}
